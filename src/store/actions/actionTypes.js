@@ -1,0 +1,6 @@
+export const SUBMIT_SIGNUP = 'SUBMIT_SIGNUP';
+export const SUBMIT_SIGNUP_TO_REMOTE = 'SUBMIT_SIGNUP_TO_REMOTE';
+export const RESET_SIGNUP = 'RESET_SIGNUP';
+export const CHANGE_SIGNUP = 'CHANGE_SIGNUP';
+export const SUBMIT_POST = 'SUBMIT_POST';
+export const SUBMIT_BLOG = 'SUBMIT_BLOG';
